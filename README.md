@@ -52,3 +52,29 @@
 | A14 | Doriki | 192.200.27.162 | 255.255.255.252 |  |
 | A15 | Oimo | 192.200.27.165 | 255.255.255.252 | /30 |
 | A15 | Fukurou | 192.200.27.166 | 255.255.255.252 |  |
+
+### VLSM Routing Check 
+
+https://user-images.githubusercontent.com/55318172/143031251-1e2bdc97-7a13-49dc-8a0d-4f90056357ab.mp4
+
+## CIDR
+
+![image](https://user-images.githubusercontent.com/55318172/143031393-5d270e7e-9c79-477c-bcc0-4225c9198df3.png)
+
+![image](https://user-images.githubusercontent.com/55318172/143031408-3d7fe57e-8559-4034-ad8d-9de585c52619.png)
+
+![image](https://user-images.githubusercontent.com/55318172/143031429-62803a1a-cb51-4b1e-b541-b12658d80e4e.png)
+
+![image](https://user-images.githubusercontent.com/55318172/143031448-6e47724a-4b41-4418-a486-ed84a17fc963.png)
+
+![image](https://user-images.githubusercontent.com/55318172/143031467-09182464-4e0d-4dfb-9114-798ce77990b1.png)
+
+![image](https://user-images.githubusercontent.com/55318172/143031507-354f3610-5eb8-45d2-951c-46fce3168096.png)
+
+![image](https://user-images.githubusercontent.com/55318172/143031532-8c0800ac-703d-4917-ab26-1969a7bb5f7e.png)
+
+![image](https://user-images.githubusercontent.com/55318172/143031579-3d5f6775-46ff-4a14-b423-901617d70d39.png)
+
+### Pohon IP
+
+![image](https://user-images.githubusercontent.com/55318172/143031629-6ab41822-e9cf-4f25-8a6f-8b68adec39df.png)
