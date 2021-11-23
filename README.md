@@ -77,4 +77,25 @@ https://user-images.githubusercontent.com/55318172/143031251-1e2bdc97-7a13-49dc-
 
 ### Pohon IP
 
-![image](https://user-images.githubusercontent.com/55318172/143031629-6ab41822-e9cf-4f25-8a6f-8b68adec39df.png)
+![image](https://user-images.githubusercontent.com/55318172/143033944-8ba7468d-6cce-4ce0-9b47-609e05b19d47.png)
+
+
+### Tabel
+
+| Subnet | Node | IP | Subnet Mask | Length |
+| --- | --- | --- | --- | --- |
+| A1 | jipangu pucci | 192.201.8.0 | 255.255.255.128 | 25 |
+| A2 | court, calm, puc | 192.201.0.0 | 255.255.248.0 | 21 |
+| A3 | pucci water | 192.201.16.0 | 255.255.255.252 | 30 |
+| A4 | cipher water | 192.201.32.0 | 255.255.252.0 | 22 |
+| A5 | blueno foosh | 192.201.128.0 | 255.255.252.0 | 22 |
+| A6 | foosh wat | 192.201.64.0 | 255.255.255.252 | 30 |
+| A7 | foosh guan | 192.200.64.0 | 255.255.255.252 | 30 |
+| A8 | guan jabra | 192.200.36.0 | 255.255.252.0 | 22 |
+| A9 | guanhao maingate alabas | 192.200.0.0 | 255.255.254.0 | 23 |
+| A10 | alabas jorge | 192.200.34.0 | 255.255.255.240 | 28 |
+| A11 | guan oimo | 192.200.16.0 | 255.255.255.252 | 30 |
+| A12 | oimo enies seastone | 192.200.4.0 | 255.255.255.0 | 24 |
+| A13 | seas elena | 192.200.0.0 | 255.255.252.0 | 22 |
+| A14 | foosha doriki | 192.200.128.0 | 255.255.255.252 | 30 |
+| A15 | fukurou oimo | 192.200.8.0 | 255.255.255.252 | 30 |
